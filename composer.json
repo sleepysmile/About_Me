@@ -1,0 +1,14 @@
+{
+  "name": "sleppysmile/about_me",
+  "description": "about_me",
+  "license": "BSD-2-Clause",
+  "authors": [
+      {
+        "name": "Roma.Ost",
+        "email": "ostrowskijroman@gamil.com"
+      }
+  ],
+  "require": {
+    "php": "^7.2"
+  }
+}
